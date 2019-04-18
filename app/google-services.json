@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856545496390",
+    "firebase_url": "https://getyourhikeon2-178ef.firebaseio.com",
+    "project_id": "getyourhikeon2-178ef",
+    "storage_bucket": "getyourhikeon2-178ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856545496390:android:a3aaff3fa817444a",
+        "android_client_info": {
+          "package_name": "hike.me.webify.getyourhikeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856545496390-ithddo9cdm45jd1s97g7ng6gmuhm0hsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hike.me.webify.getyourhikeon",
+            "certificate_hash": "154fc97ffc9dfe64a3a742223532c71f136fc2b3"
+          }
+        },
+        {
+          "client_id": "856545496390-rft776a8krbvad1n56ivtipif3lks0ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQGyacqLIaJ0gAD_luvhdfB2tFnML6Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856545496390-rft776a8krbvad1n56ivtipif3lks0ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
